@@ -46,6 +46,7 @@ export class RewardToken extends SmartContract {
 
         // Check balance
         assert(this.tokenBalance >= amount, 'Insufficient balance')
+        assert(to !== this.owner, 'Cannot transfer to self')
 
         // Update balances
         const oldBalance = this.tokenBalance
