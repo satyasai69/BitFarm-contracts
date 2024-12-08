@@ -50,7 +50,7 @@ Bitcoin Farm Metaverse is an immersive farming simulation game where players can
 
 - Bitcoin Script
 - sCrypt for smart contract development
-- Ordinals Protocol
+- cat-sdk for CAT Protocol
 
 ## Getting Started
 
