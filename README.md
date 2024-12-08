@@ -258,9 +258,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Unisat [Unisat](https://unisat.io/)
-- Fractal Bitcoin [https://www.fractalbitcoin.io/]
-- cat-sdk [https://catprotocol.org/]
-- sCrypt [https://docs.scrypt.io/]
+- [Unisat](https://unisat.io/)
+- [Fractal-Bitcoin] (https://www.fractalbitcoin.io/)
+- [cat-sdk] (https://catprotocol.org/)
+- [sCrypt] (https://docs.scrypt.io/)
 - Bitcoin Community
-- Phaser.js [https://phaser.io/]
+- [Phaser.js] (https://phaser.io/)
